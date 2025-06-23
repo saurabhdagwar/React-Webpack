@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    background-color: blueviolet;
+}
+.img-class{
+    width: 200px;
+    height: 200px;
+}
